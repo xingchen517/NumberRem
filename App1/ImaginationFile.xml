@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ImaginationModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="ImageModel.xsd">
+  <Items>
+    <Item Key="0" Value="鸡蛋"/>
+    <Item Key="1" Value="树"/>
+    <Item Key="2" Value="鸭子"/>
+    <Item Key="3" Value="耳朵"/>
+    <Item Key="4" Value="红旗"/>
+    <Item Key="5" Value="钩子"/>
+    <Item Key="6" Value="勺子"/>
+    <Item Key="7" Value="拐杖"/>
+    <Item Key="8" Value="葫芦"/>
+    <Item Key="9" Value="猫"/>
+
+    <Item Key="00" Value="望远镜"/>
+    <Item Key="01" Value="灵药"/>
+    <Item Key="02" Value="铃儿"/>
+    <Item Key="03" Value="元宝(领赏)"/>
+    <Item Key="04" Value="麻花(零食)"/>
+    <Item Key="05" Value="鹦鹉"/>
+    <Item Key="06" Value="路标(领路)"/>
+    <Item Key="07" Value="令旗"/>
+    <Item Key="08" Value="泥巴"/>
+    <Item Key="09" Value="菱角"/>
+
+    <Item Key="10" Value="棒球"/>
+    <Item Key="11" Value="筷子"/>
+    <Item Key="12" Value="婴儿"/>
+    <Item Key="13" Value="医生"/>
+    <Item Key="14" Value="钥匙"/>
+    <Item Key="15" Value="圆月"/>
+    <Item Key="16" Value="玫瑰"/>
+    <Item Key="17" Value="仪器"/>
+    <Item Key="18" Value="人民币(要发)"/>
+    <Item Key="19" Value="药酒"/>
+
+    <Item Key="20" Value="二石(耳屎)"/>
+    <Item Key="21" Value="报纸(21世纪报)"/>
+    <Item Key="22" Value="饿鹅"/>
+    <Item Key="23" Value="乔丹"/>
+    <Item Key="24" Value="鹅(卵)石"/>
+    <Item Key="25" Value="二胡"/>
+    <Item Key="26" Value="吉他(二流子)"/>
+    <Item Key="27" Value="耳机"/>
+    <Item Key="28" Value="恶霸"/>
+    <Item Key="29" Value="阿胶"/>
+
+    <Item Key="30" Value="三菱轿车"/>
+    <Item Key="31" Value="山芋"/>
+    <Item Key="32" Value="扇儿"/>
+    <Item Key="33" Value="钻石(闪闪)"/>
+    <Item Key="34" Value="绅士"/>
+    <Item Key="35" Value="珊瑚"/>
+    <Item Key="36" Value="山鹿"/>
+    <Item Key="37" Value="山鸡"/>
+    <Item Key="38" Value="口红(女人)"/>
+    <Item Key="39" Value="三角(尺)"/>
+
+    <Item Key="40" Value="司令"/>
+    <Item Key="41" Value="话筒(司仪)"/>
+    <Item Key="42" Value="柿儿"/>
+    <Item Key="43" Value="石山"/>
+    <Item Key="44" Value="石狮"/>
+    <Item Key="45" Value="师傅"/>
+    <Item Key="46" Value="石榴"/>
+    <Item Key="47" Value="方向盘(司机)"/>
+    <Item Key="48" Value="石板"/>
+    <Item Key="49" Value="天安门"/>
+
+    <Item Key="50" Value="大刀(武林)"/>
+    <Item Key="51" Value="安全帽(工人)"/>
+    <Item Key="52" Value="斧儿"/>
+    <Item Key="53" Value="武僧"/>
+    <Item Key="54" Value="武士(刀)"/>
+    <Item Key="55" Value="火车"/>
+    <Item Key="56" Value="蜗牛"/>
+    <Item Key="57" Value="武器"/>
+    <Item Key="58" Value="尾巴"/>
+    <Item Key="59" Value="五角(星)"/>
+
+    <Item Key="60" Value="榴莲"/>
+    <Item Key="61" Value="儿童"/>
+    <Item Key="62" Value="炉儿"/>
+    <Item Key="63" Value="硫酸"/>
+    <Item Key="64" Value="柳丝"/>
+    <Item Key="65" Value="锣鼓"/>
+    <Item Key="66" Value="两只蝌蚪"/>
+    <Item Key="67" Value="油漆"/>
+    <Item Key="68" Value="喇叭"/>
+    <Item Key="69" Value="漏斗"/>
+
+    <Item Key="70" Value="(冰)激凌"/>
+    <Item Key="71" Value="奇异(果)"/>
+    <Item Key="72" Value="企鹅"/>
+    <Item Key="73" Value="花旗参"/>
+    <Item Key="74" Value="骑士"/>
+    <Item Key="75" Value="舞女"/>
+    <Item Key="76" Value="气流"/>
+    <Item Key="77" Value="桥"/>
+    <Item Key="78" Value="青蛙"/>
+    <Item Key="79" Value="气球"/>
+
+    <Item Key="80" Value="巴黎铁塔"/>
+    <Item Key="81" Value="白蚁"/>
+    <Item Key="82" Value="靶儿"/>
+    <Item Key="83" Value="花生"/>
+    <Item Key="84" Value="巴士"/>
+    <Item Key="85" Value="白虎"/>
+    <Item Key="86" Value="白兔"/>
+    <Item Key="87" Value="白旗"/>
+    <Item Key="88" Value="爸爸"/>
+    <Item Key="89" Value="芭蕉"/>
+
+    <Item Key="90" Value="酒瓶"/>
+    <Item Key="91" Value="球衣"/>
+    <Item Key="92" Value="红高粱(九儿)"/>
+    <Item Key="93" Value="救生(圈)"/>
+    <Item Key="94" Value="黑板(教师)"/>
+    <Item Key="95" Value="酒壶"/>
+    <Item Key="96" Value="九牛"/>
+    <Item Key="97" Value="紫荆花"/>
+    <Item Key="98" Value="酒吧"/>
+    <Item Key="99" Value="舅舅"/>
+  </Items>
+</ImaginationModel>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="ImaginationModel" nillable="true" type="ImaginationModel" />
+  <xs:complexType name="ImaginationModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="1" name="Items" type="ArrayOfItem" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArrayOfItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Item" nillable="true" type="Item" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Item">
+    <xs:attribute name="Key" type="xs:string" />
+    <xs:attribute name="Value" type="xs:string" />
+    <xs:attribute name="Version" type="xs:string" />
+    <xs:attribute name="ImgPath" type="xs:string" />
+  </xs:complexType>
+  <xs:element name="Item" nillable="true" type="Item" />
+</xs:schema>

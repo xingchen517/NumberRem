@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btnRefreshImg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Hello" />
+    <NumberPicker
+        android:layout_width="match_parent"
+        android:layout_height="73.5dp"
+        android:id="@+id/numberPicker1"
+        android:layout_marginTop="0.0dp"
+        android:layout_marginBottom="0.0dp" />
+    <EditText
+        android:inputType="text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtChooseNumber" />
+    <CheckBox
+        android:text="Even"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ckbxEven" />
+    <EditText
+        android:inputType="textMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="84.5dp"
+        android:id="@+id/txtShowImg" />
+    <Button
+        android:text="Clear&amp;Rember"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnStopShow" />
+    <Button
+        android:text="Verify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnVerify" />
+</LinearLayout>
